@@ -227,7 +227,7 @@ function App() {
           </div>
           <h1 className="magazine-title">HEARTCONNECT</h1>
           <div className="title-underline"></div>
-          <p className="magazine-subtitle">Revolutionary Matrimonial Platform</p>
+          <p className="magazine-subtitle">Lovable Matrimonial Platform</p>
         </div>
 
         {/* Main Content with Image */}
